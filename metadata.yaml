@@ -1,0 +1,37 @@
+_repo: Minority-Report-of-the-Committee-on-Railways-in-Relation-to-the-Hoosac-Tunnel-and-the-Railroa__40514
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Carpenter, E. P. (Erastus Payson)
+    alias: Carpenter, Erastus Payson
+    gutenberg_agent_id: '40669'
+    url: http://www.gutenberg.org/2009/agents/40669
+covers:
+- cover_type: archival
+  image_path: 40514-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Massachusetts. General Court. Committee on Railways and Canals
+    alias: Massachusetts. General Court. Rail Road Committee
+    gutenberg_agent_id: '46001'
+    url: http://www.gutenberg.org/2009/agents/46001
+description: ''
+gutenberg_issued: '2012-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Massachusetts'
+- !lcc 'HE'
+- !lcsh 'Railroad tunnels -- Massachusetts'
+- !lcsh 'Hoosac Tunnel (Mass.)'
+- !lcc 'TA'
+title: "Minority Report of the Committee on Railways in Relation to the Hoosac Tunnel\
+  \ and the Railroads Leading Thereto\r\nWith a bill to incorporate the State Board\
+  \ of Trustees of the Hoosac Tunnel Railroad; also the speech delivered by Hon. E.\
+  \ P. Carpenter in the Senate of Massachusetts, June 3, 1873, in support of the same"
+url: http://www.gutenberg.org/ebooks/40514
