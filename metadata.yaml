@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '46001'
     url: http://www.gutenberg.org/2009/agents/46001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40514#Minority-Report-of-the-Committee-on-Railways-in-Relation-to-the-Hoosac-Tunnel-and-the-Railroa_
 gutenberg_issued: '2012-08-16'
 gutenberg_type: Text
 identifiers:
